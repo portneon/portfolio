@@ -1,13 +1,13 @@
-import React from 'react';
-
-const Section = ({ id, title, children, className = "" }) => (
-    <section id={id} className={`py-20 px-6 md:px-12 max-w-5xl mx-auto ${className}`}>
-        <div className="flex items-center gap-4 mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 tracking-tight">{title}</h2>
-            <div className="h-px bg-slate-200 flex-1 mt-2"></div>
+const Section = ({ id, title, children, dark = false }) => (
+    <section id={id} className={`py-32 px-6 md:px-20 ${dark ? 'bg-zinc-900 text-white' : 'bg-white text-zinc-900'}`}>
+        <div className="max-w-7xl mx-auto">
+            <div className="mb-24 flex items-center gap-6">
+                <h2 className="font-editorial text-5xl md:text-7xl italic leading-none">{title}</h2>
+                <div className={`h-[1px] flex-1 ${dark ? 'bg-zinc-700' : 'bg-zinc-200'}`}></div>
+            </div>
+            {children}
         </div>
-        {children}
     </section>
 );
 
-export default Section;
+export default Section

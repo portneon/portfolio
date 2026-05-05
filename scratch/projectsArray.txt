@@ -1,0 +1,406 @@
+  {
+    id: "01",
+    name: "RAG",
+    cat: "TYPESCRIPT",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "02",
+    name: "coding-interview-university",
+    cat: "PROJECT",
+    desc: "A complete computer science study plan to become a software engineer.",
+    year: "2026"
+  },
+  {
+    id: "03",
+    name: "hiremyidea",
+    cat: "JAVASCRIPT",
+    desc: "companyassignment",
+    year: "2026"
+  },
+  {
+    id: "04",
+    name: "Koinx",
+    cat: "JAVASCRIPT",
+    desc: "Tax_Harvesting Dashboard",
+    year: "2026"
+  },
+  {
+    id: "05",
+    name: "LogisticRegression",
+    cat: "PYTHON",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "06",
+    name: "financeSaas",
+    cat: "TYPESCRIPT",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "07",
+    name: "Optmisation_technique",
+    cat: "CSS",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "08",
+    name: "cliCommand",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "09",
+    name: "msgme",
+    cat: "TYPESCRIPT",
+    desc: "message-me",
+    year: "2026"
+  },
+  {
+    id: "10",
+    name: "FLEET.OS",
+    cat: "TYPESCRIPT",
+    desc: "Manage Your fleet with a single dashboard system",
+    year: "2026"
+  },
+  {
+    id: "11",
+    name: "buddhi_vetta",
+    cat: "JUPYTER NOTEBOOK",
+    desc: "A machine learning project  aims to provide fleet breakdown prediction system",
+    year: "2026"
+  },
+  {
+    id: "12",
+    name: "Fleet_maintainance_prediction",
+    cat: "JUPYTER NOTEBOOK",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "13",
+    name: "runtime",
+    cat: "PYTHON",
+    desc: "Runtime for building and managing AI agents and Workflows. Easy to learn, fast to build, High Performance, Reliable by design, Intuitive UI, Production Ready.",
+    year: "2026"
+  },
+  {
+    id: "14",
+    name: "sesd_workshop",
+    cat: "TYPESCRIPT",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "15",
+    name: "btcpayserver",
+    cat: "PROJECT",
+    desc: "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ",
+    year: "2026"
+  },
+  {
+    id: "16",
+    name: "IntentOs",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2026"
+  },
+  {
+    id: "17",
+    name: "cabdisc",
+    cat: "TYPESCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "18",
+    name: "trading",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "19",
+    name: "portfolio",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "20",
+    name: "north_stars",
+    cat: "TYPESCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "21",
+    name: "angular",
+    cat: "TYPESCRIPT",
+    desc: "Deliver web apps with confidence 🚀",
+    year: "2025"
+  },
+  {
+    id: "22",
+    name: "date-fns",
+    cat: "PROJECT",
+    desc: "⏳ Modern JavaScript date utility library ⌛️",
+    year: "2025"
+  },
+  {
+    id: "23",
+    name: "axios-docs",
+    cat: "PROJECT",
+    desc: "Official documentation for the axios HTTP library",
+    year: "2025"
+  },
+  {
+    id: "24",
+    name: "axios",
+    cat: "PROJECT",
+    desc: "Promise based HTTP client for the browser and node.js",
+    year: "2025"
+  },
+  {
+    id: "25",
+    name: "vscode",
+    cat: "TYPESCRIPT",
+    desc: "Visual Studio Code",
+    year: "2025"
+  },
+  {
+    id: "26",
+    name: "simple-icons",
+    cat: "JAVASCRIPT",
+    desc: "SVG icons for popular brands",
+    year: "2025"
+  },
+  {
+    id: "27",
+    name: "next16-bug",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "28",
+    name: "data_mining",
+    cat: "JUPYTER NOTEBOOK",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "29",
+    name: "NorthStaRs",
+    cat: "TYPESCRIPT",
+    desc: "A team project by ",
+    year: "2025"
+  },
+  {
+    id: "30",
+    name: "abcde",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "31",
+    name: "Plant_Disease_Detector",
+    cat: "PROJECT",
+    desc: "AI powered plant disease detection and assistance platform currently available as an App and API.",
+    year: "2025"
+  },
+  {
+    id: "32",
+    name: "delivery_saas",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "33",
+    name: "dsa",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "34",
+    name: "Anshul-DSA-Sheet",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "35",
+    name: "contact-app",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "36",
+    name: "JEEVAN_DHAN",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "37",
+    name: "Camera-_app",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "38",
+    name: "fafsdaf",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "39",
+    name: "VS-code-Extension",
+    cat: "JAVASCRIPT",
+    desc: "collaborative project with newton school of technology",
+    year: "2025"
+  },
+  {
+    id: "40",
+    name: "backend_main",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "41",
+    name: "backend",
+    cat: "JAVASCRIPT",
+    desc: "a test app for backend",
+    year: "2025"
+  },
+  {
+    id: "42",
+    name: "portneon",
+    cat: "PROJECT",
+    desc: "Config files for my GitHub profile.",
+    year: "2025"
+  },
+  {
+    id: "43",
+    name: "VIKALP",
+    cat: "JUPYTER NOTEBOOK",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "44",
+    name: "StudyBuddy",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "45",
+    name: "meratiffin",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "46",
+    name: "plantsapi",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "47",
+    name: "plantapi",
+    cat: "JAVASCRIPT",
+    desc: "this file is proxy api for trefle.io",
+    year: "2025"
+  },
+  {
+    id: "48",
+    name: "The-Art-of-Farming",
+    cat: "JAVASCRIPT",
+    desc: "This is react based project full with api integrations",
+    year: "2025"
+  },
+  {
+    id: "49",
+    name: "trailone",
+    cat: "PROJECT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "50",
+    name: "OpenFarmdata",
+    cat: "RUBY",
+    desc: "A free and open database for farming and gardening knowledge. You can grow anything!",
+    year: "2025"
+  },
+  {
+    id: "51",
+    name: "snake-and-ladder",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "52",
+    name: "task-tracker",
+    cat: "JAVASCRIPT",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "53",
+    name: "leetcode",
+    cat: "PYTHON",
+    desc: "No description provided.",
+    year: "2025"
+  },
+  {
+    id: "54",
+    name: "HeroVerse",
+    cat: "HTML",
+    desc: "No description provided.",
+    year: "2024"
+  },
+  {
+    id: "55",
+    name: "contribute",
+    cat: "HTML",
+    desc: "No description provided.",
+    year: "2024"
+  },
+  {
+    id: "56",
+    name: "Marvel_vs_DC_Discussion",
+    cat: "HTML",
+    desc: "No description provided.",
+    year: "2024"
+  },
+  {
+    id: "57",
+    name: "shashwatlab",
+    cat: "HTML",
+    desc: "No description provided.",
+    year: "2024"
+  },
+  {
+    id: "58",
+    name: "demo",
+    cat: "PROJECT",
+    desc: "this is the demofile",
+    year: "2024"
+  }

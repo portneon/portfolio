@@ -1,13 +1,22 @@
 import React from 'react';
 
 const Navbar = () => (
-    <nav className="fixed top-6 left-1/2 -translate-x-1/2 z-50 bg-white/80 backdrop-blur-md border border-slate-200 px-6 py-3 rounded-full shadow-lg shadow-slate-200/50 flex items-center gap-6">
-        <span className="font-bold text-slate-800 text-sm hidden md:block">SS.</span>
-        <div className="flex gap-6 text-sm font-medium text-slate-600">
-            <a href="#projects" className="hover:text-indigo-600 transition-colors">Work</a>
-            <a href="#skills" className="hover:text-indigo-600 transition-colors">Stack</a>
-            <a href="#contact" className="hover:text-indigo-600 transition-colors">Contact</a>
+    <nav className="fixed top-0 w-full z-50 mix-blend-multiply">
+        <div className="max-w-[1600px] mx-auto px-8 md:px-16 py-6 flex justify-between items-center">
+            <a href="/" className="font-editorial text-2xl tracking-widest font-light text-[var(--ink)] link-hover">
+                SS.
+            </a>
+            <div className="hidden md:flex items-center gap-12 text-[10px] tracking-[0.35em] uppercase font-medium text-[var(--muted)]">
+                <a href="#work" className="link-hover hover:text-[var(--ink)] transition-colors">Portfolio</a>
+                <a href="#skills" className="link-hover hover:text-[var(--ink)] transition-colors">Arsenal</a>
+                <a href="#education" className="link-hover hover:text-[var(--ink)] transition-colors">About</a>
+                <a href="#contact" className="link-hover hover:text-[var(--ink)] transition-colors">Contact</a>
+            </div>
+            <div className="text-[10px] tracking-[0.25em] text-[var(--muted)] uppercase font-medium">
+                ©&nbsp;2025
+            </div>
         </div>
+        <div className="h-px bg-[var(--rule)] mx-8 md:mx-16"></div>
     </nav>
 );
 
